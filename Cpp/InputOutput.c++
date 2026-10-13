@@ -40,6 +40,5 @@ int main()
     // cout << "Product --> " << num1 * num2 << endl;
     // float q = (num1 / num2);
     // cout << "Quotient --> " << q;
-    
     return 0;
 }
